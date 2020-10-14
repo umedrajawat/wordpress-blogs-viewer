@@ -10,8 +10,11 @@ Command to run the server on port 5000
 
 Command to start the React client on port 3000
 >>npm start
+
 SCREENS
-HOME PAGE - consists of a button onClick of which call /Fetchblogs api that will fetch all bloags associated with the site and return it to client
+
+HOME PAGE - 
+consists of a button onClick of which call /Fetchblogs api that will fetch all bloags associated with the site and return it to client
 
 
 
